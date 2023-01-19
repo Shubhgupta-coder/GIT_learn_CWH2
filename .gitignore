@@ -1,0 +1,4 @@
+*.log
+/ignoredir/
+static/ignoredir
+/mytext.txt
